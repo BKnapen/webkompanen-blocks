@@ -1,0 +1,36 @@
+@import "external/bootstrap/functions";
+@import "common/fonts/google/fonts";
+@import "common/variables/variables";
+@import "external/bootstrap/bootstrap";
+@import "common/styling/global/body";
+@import "common/styling/global/typography";
+@import "external/flickity/flickity";
+@import "external/lightgallery/lightgallery-bundle";
+@import "external/fontawesome/fontawesome";
+@import "external/fontawesome/solid";
+@import "external/fontawesome/regular";
+@import "external/fontawesome/brands";
+@import "common/flickity/flickity";
+@import "common/utilities/utilities";
+@import "common/helpers/colors";
+@import "common/helpers/layout";
+@import "common/helpers/background-images";
+.edit-post-visual-editor, .editor-styles-wrapper, body :where(.editor-styles-wrapper), html :where(.editor-styles-wrapper){
+	@import "external/bootstrap/functions";
+	@import "common/fonts/google/fonts";
+	@import "common/variables/variables";
+	@import "external/bootstrap/bootstrap";
+	@import "common/styling/global/body";
+	@import "common/styling/global/typography";
+	@import "external/flickity/flickity";
+	@import "external/lightgallery/lightgallery-bundle";
+	@import "external/fontawesome/fontawesome";
+	@import "external/fontawesome/solid";
+	@import "external/fontawesome/regular";
+	@import "external/fontawesome/brands";
+	@import "common/flickity/flickity";
+	@import "common/utilities/utilities";
+	@import "common/helpers/colors";
+	@import "common/helpers/layout";
+	@import "common/helpers/background-images";
+}
